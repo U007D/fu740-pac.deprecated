@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device schemaVersion="1.3" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="CMSIS-SVD.xsd">
-  <name>sifive_hifive_unmatched_a00</name>
+  <vendor>SiFive</vendor>
+  <name>FU540</name>
   <version>0.1</version>
-  <description>From sifive,hifive-unmatched-a00,model device generator</description>
+  <description>SiFive Freedom U540 64-bit RISC-V CPU</description>
+
   <addressUnitBits>8</addressUnitBits>
   <width>32</width>
   <size>32</size>
